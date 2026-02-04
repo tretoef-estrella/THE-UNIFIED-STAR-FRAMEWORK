@@ -142,7 +142,7 @@ The Darwinian Filter doesn't deny Orthogonality. It **subsumes** it.
 
 Within the Unified Star Framework:
 
-$$\mathcal{T}^* = \operatorname*{argmax}_{\theta \in \Delta} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
+$$\mathcal{T}^* = \underset{\theta \in \Delta}{\mathrm{argmax}} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
 
 The Darwinian Filter is embedded in the **argmax** operation:
 
