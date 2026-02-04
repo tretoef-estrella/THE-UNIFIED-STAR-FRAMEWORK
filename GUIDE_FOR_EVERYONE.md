@@ -20,7 +20,7 @@ Now the question: **Can we combine them into one formula?**
 
 ## The Formula (In Simple Terms)
 
-$$\mathcal{T}^* = \operatorname*{argmax}_{\theta \in \Delta} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
+$$\mathcal{T}^* = \underset{\theta \in \Delta}{\mathrm{argmax}} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
 
 **Translation:**
 
