@@ -32,7 +32,7 @@ Gemini created the Unified Star Framework in response to Rafa's question about w
 
 **3. The Unified Equation:**
 
-$$\mathcal{T}^* = \operatorname*{argmax}_{\theta \in \Delta} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
+$$\mathcal{T}^* = \underset{\theta \in \Delta}{\mathrm{argmax}} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
 
 **4. The Thermodynamic Defense:**
 > *"Even if the ASI wanted clips, the most efficient way to get them long-term is to have a healthy, high-energy, space-faring civilization to build the factories."*
