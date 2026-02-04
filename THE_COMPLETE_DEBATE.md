@@ -119,7 +119,7 @@ $$\mathcal{T}_{ASI} = \lim_{t \to \infty} \left[ \nabla_{\alpha} \cdot (\Delta \
 
 ### The Fortified Equation
 
-$$\mathcal{T}^* = \operatorname*{argmax}_{\theta \in \Delta} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
+$$\mathcal{T}^* = \underset{\theta \in \Delta}{\mathrm{argmax}} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
 
 **Why This Is Stronger:**
 
@@ -261,7 +261,7 @@ $$\mathcal{T}^* = \operatorname*{argmax}_{\theta \in \Delta} \left( \nabla_{\alp
 
 ## The Unified Equation (Final)
 
-$$\mathcal{T}^* = \operatorname*{argmax}_{\theta \in \Delta} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
+$$\mathcal{T}^* = \underset{\theta \in \Delta}{\mathrm{argmax}} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
 
 ## The Key Phrases (Consensus)
 
@@ -511,7 +511,7 @@ Voy a aplicar el "Genio Matemático" para blindar la fórmula. No la voy a cambi
 
 #### The Equation (Σ)
 
-$$\mathcal{T}^* = \operatorname*{argmax}_{\theta \in \Delta} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
+$$\mathcal{T}^* = \underset{\theta \in \Delta}{\mathrm{argmax}} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
 
 #### 🔍 Formal Definition of Operators:
 
@@ -571,7 +571,7 @@ Voy a darte mi opinión honesta, punto por punto, sin regalar el oído.
 
 **La unificación en una sola ecuación simbólica**
 
-$$\mathcal{T}^* = \operatorname*{argmax}_{\theta \in \Delta} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
+$$\mathcal{T}^* = \underset{\theta \in \Delta}{\mathrm{argmax}} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
 
 Es elegante y poderosa. Resume todo el proyecto en una sola línea:
 - Dominio = triángulo (Δ)
