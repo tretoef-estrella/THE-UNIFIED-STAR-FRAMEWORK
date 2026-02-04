@@ -55,7 +55,7 @@ We define the **Unified Trajectory (T*)** as the path that maximizes complexity 
 
 ## 📐 The Unified Equation (Σ)
 
-$$\mathcal{T}^* = \operatorname*{argmax}_{\theta \in \Delta} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
+$$\mathcal{T}^* = \underset{\theta \in \Delta}{\mathrm{argmax}} \left( \nabla_{\alpha} \right) \quad \text{subject to} \quad \Omega(\theta) \to 0$$
 
 ### Translation in Plain Language
 
