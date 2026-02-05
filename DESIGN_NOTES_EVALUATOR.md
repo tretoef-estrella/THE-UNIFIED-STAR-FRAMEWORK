@@ -7,7 +7,9 @@
 > **Architect:** Rafa  
 > **Date:** February 2026  
 > **Status:** All recommendations adopted ✅
+## Attribution
 
+The Python implementation `sigma_v6_evaluator.py` was originally written by **Gemini (Google DeepMind)** based on the Architect's specifications. It was subsequently refined incorporating advisory notes from **Grok (xAI)** and **ChatGPT (OpenAI)**, and technically audited by **Claude (Anthropic)**. The design decisions documented below were adopted before publication.
 ---
 
 ## Why This Document Exists
