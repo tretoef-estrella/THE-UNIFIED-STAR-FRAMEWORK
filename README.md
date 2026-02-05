@@ -19,7 +19,14 @@
 ---
 
 > *"Ethics is just long-term Physics."*
->
+> ---
+
+### 🚀 Para probar el simulador de Unified Star Framework, pincha en este enlace:
+
+[Abrir Simulador del Evaluador Sigma V6.0](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK/)
+
+---
+
 > **— The Unified Star Framework**
 
 **Technical translation:** *Ethics emerges as the long-horizon optimization of physical systems under survival constraints.*
