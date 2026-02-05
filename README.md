@@ -246,6 +246,7 @@ If the answer is **No**, then the **Unified Star Framework** describes the domin
 | [sigma_v6_evaluator.jsx](sigma_v6_evaluator.jsx) | **NEW** — React source: Sigma Viability Evaluator V6.0 (reference implementation) |
 | [index.html](index.html) | **NEW** — Interactive dashboard ([▶ live demo](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK/)) |
 | [LICENSE.md](LICENSE.md) | CC BY 4.0 |
+| [DESIGN_NOTES_EVALUATOR.md](DESIGN_NOTES_EVALUATOR.md) | **NEW** — Design decisions: ChatGPT & Grok advisory notes adopted for the Python evaluator |
 
 ---
 
