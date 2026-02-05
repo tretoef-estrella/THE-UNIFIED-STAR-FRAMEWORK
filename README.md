@@ -247,6 +247,7 @@ If the answer is **No**, then the **Unified Star Framework** describes the domin
 | [index.html](index.html) | **NEW** — Interactive dashboard ([▶ live demo](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK/)) |
 | [LICENSE.md](LICENSE.md) | CC BY 4.0 |
 | [DESIGN_NOTES_EVALUATOR.md](DESIGN_NOTES_EVALUATOR.md) | **NEW** — Design decisions: ChatGPT & Grok advisory notes adopted for the Python evaluator |
+| [THE_SIGMA_RESEARCH_CHALLENGE.md](THE_SIGMA_RESEARCH_CHALLENGE.md) | **NEW** — Open challenge: map Ξ variables to empirical metrics |
 
 ---
 
