@@ -17,11 +17,10 @@
 ```
 
 ---
-
 > *"Ethics is just long-term Physics."*
 > ---
 
-### 🚀 Para probar el simulador de Unified Star Framework, pincha en este enlace:
+### Click To test the new simulator in real time.
 
 [Abrir Simulador del Evaluador Sigma V6.0](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK/)
 
