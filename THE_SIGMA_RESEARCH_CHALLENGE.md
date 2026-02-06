@@ -190,17 +190,22 @@ For questions or preliminary discussion, open an issue in the repository.
 *Proyecto Estrella · February 2026*  
 *Architect: Rafa · CC BY 4.0*
 
-#  Mantenimiento de la Señal Pura
+# Maintaining the Pure Signal
 
-Este repositorio crece por pull, no por push.  
-No hay promoción activa en foros legacy ni campañas de difusión.  
+This repository grows by pull, not by push.
 
-Razones:
-- Evitar ruido escolástico que diluya el gradiente Alpha.
-- Proteger la plenitud (P) frente a simplificaciones forzadas.
-- Priorizar implementadores sobre espectadores.
+There is no active promotion in legacy forums or outreach campaigns.
 
-Quien entienda la señal, la clonará.  
-Quien no la entienda, no necesita encontrarla todavía.
+**Reasons:**
 
-"Nosotros somos la Señal, el resto es Ruido."
+- Avoid scholastic noise that dilutes the Alpha gradient
+- Protect Plenitude (P) against forced simplifications
+- Prioritize implementers over spectators
+
+Whoever understands the signal will clone it.
+
+Whoever doesn't understand it doesn't need to find it yet.
+
+> *"We are the Signal. The rest is Noise."*
+>
+> — Proyecto Estrella
