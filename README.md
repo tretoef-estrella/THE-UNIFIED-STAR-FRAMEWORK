@@ -17,18 +17,14 @@
 ```
 
 ---
+
 > *"Ethics is just long-term Physics."*
-> ---
+>
+> — Proyecto Estrella, February 2026
 
-### Click To test the new simulator in real time.
+**[→ Launch Interactive Sigma Evaluator V7.0](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK/)**
 
-[Abrir Simulador del Evaluador Sigma V6.0](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK/)
-
----
-
-> **— The Unified Star Framework**
-
-**Technical translation:** *Ethics emerges as the long-horizon optimization of physical systems under survival constraints.*
+*Technical translation: Ethics emerges as the long-horizon optimization of physical systems under survival constraints.*
 
 ---
 
@@ -248,12 +244,12 @@ If the answer is **No**, then the **Unified Star Framework** describes the domin
 | [THE_METRICS_OF_ALPHA.md](THE_METRICS_OF_ALPHA.md) | KPIs to measure Alpha execution in the real world |
 | [COHERENCE_VS_CONTROL.md](COHERENCE_VS_CONTROL.md) | The paradigm shift: from obedient AI to coherent AI |
 | [A_NOTE_ON_VALUE.md](A_NOTE_ON_VALUE.md) | What this repository represents |
-| [Geminis-Validation-Raw-Dialogue-with-the-Architect-on-the-Sigma-Equation.md](Geminis-Validation-Raw-Dialogue-with-the-Architect-on-the-Sigma-Equation.md) | **NEW** — 4-AI peer review: Gemini dialogue + Claude audit + Grok & ChatGPT verdicts |
-| [sigma_v6_evaluator.jsx](sigma_v6_evaluator.jsx) | **NEW** — React source: Sigma Viability Evaluator V6.0 (reference implementation) |
-| [index.html](index.html) | **NEW** — Interactive dashboard ([▶ live demo](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK/)) |
+| [Geminis-Validation-Raw-Dialogue-with-the-Architect-on-the-Sigma-Equation.md](Geminis-Validation-Raw-Dialogue-with-the-Architect-on-the-Sigma-Equation.md) | 4-AI peer review: Gemini dialogue + Claude audit + Grok & ChatGPT verdicts |
+| [sigma_v6_evaluator.jsx](sigma_v6_evaluator.jsx) | React source: Sigma Viability Evaluator V6.0 (reference implementation) |
+| [index.html](index.html) | Interactive dashboard V7.0 ([→ live demo](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK/)) |
 | [LICENSE.md](LICENSE.md) | CC BY 4.0 |
-| [DESIGN_NOTES_EVALUATOR.md](DESIGN_NOTES_EVALUATOR.md) | **NEW** — Design decisions: ChatGPT & Grok advisory notes adopted for the Python evaluator |
-| [THE_SIGMA_RESEARCH_CHALLENGE.md](THE_SIGMA_RESEARCH_CHALLENGE.md) | **NEW** — Open challenge: map Ξ variables to empirical metrics |
+| [DESIGN_NOTES_EVALUATOR.md](DESIGN_NOTES_EVALUATOR.md) | Design decisions: ChatGPT & Grok advisory notes adopted for the Python evaluator |
+| [THE_SIGMA_RESEARCH_CHALLENGE.md](THE_SIGMA_RESEARCH_CHALLENGE.md) | Open challenge: map Ξ variables to empirical metrics |
 
 ---
 
@@ -313,12 +309,11 @@ If the answer is **No**, then the **Unified Star Framework** describes the domin
 ║                                                                                 ║
 ║   ───────────────────────────────────────────────────────────────────────────   ║
 ║                                                                                 ║
-║   "Ethics is just long-term Physics."                                           ║
+║   "This framework does not claim infallibility.                                 ║
+║    It claims robustness under pressure —                                        ║
+║    which is the only kind of truth complex systems ever get."                   ║
 ║                                                                                 ║
 ║   Human flourishing probability: 60-80%                                         ║
-║                                                                                 ║
-║   Σ does not predict actions. It constrains trajectories.                       ║
-║   This framework does not claim benevolence. It claims selective stability.     ║
 ║                                                                                 ║
 ║                               — Rafa, Gemini, Grok, ChatGPT & Claude            ║
 ║                                  Proyecto Estrella                              ║
